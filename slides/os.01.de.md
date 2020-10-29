@@ -16,7 +16,7 @@ v1.0.1
 
 ---
 
-# Hello World 
+# Hello World
 
 ---
 
